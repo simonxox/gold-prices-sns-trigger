@@ -1,0 +1,21 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: goldprice-cronjob
+spec:
+  schedule: "* * * * *"   # runs every minute
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+            - name: goldprice
+              image: simonxox/goldmarket:v5
+              imagePullPolicy: Always
+              env:
+                - name: GOLD_API_ACCESS_TOKEN
+                  value: "goldapi-1km62smhj0wpn0-io"
+                - name: AWS_REGION
+                  value: "ap-south-1"
+          restartPolicy: OnFailure
+
