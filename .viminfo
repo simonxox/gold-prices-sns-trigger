@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1762255069,,"wq!"
+|2,0,1762255863,,"wq!"
 :qa
 |2,0,1762254077,,"qa"
 :wq!Q
@@ -56,32 +56,62 @@
 |3,0,9,1,1,0,1762251257,""
 
 # File marks:
-'0  2  15  ~/Dockerfile
-|4,48,2,15,1762255069,"~/Dockerfile"
-'1  2  15  ~/Dockerfile
-|4,49,2,15,1762254997,"~/Dockerfile"
+'0  2  19  ~/credentials
+|4,48,2,19,1762255863,"~/credentials"
+'1  2  8  ~/config
+|4,49,2,8,1762255845,"~/config"
 '2  2  15  ~/Dockerfile
-|4,50,2,15,1762254616,"~/Dockerfile"
+|4,50,2,15,1762255069,"~/Dockerfile"
 '3  2  15  ~/Dockerfile
-|4,51,2,15,1762254616,"~/Dockerfile"
-'4  13  42  ~/Cronjob.yml
-|4,52,13,42,1762254438,"~/Cronjob.yml"
-'5  1  0  ~/gold-market-price.py
-|4,53,1,0,1762254176,"~/gold-market-price.py"
-'6  1  0  ~/go
-|4,54,1,0,1762254077,"~/go"
-'7  13  42  ~/Cronjob.yml
-|4,55,13,42,1762253867,"~/Cronjob.yml"
-'8  2  15  ~/Dockerfile
-|4,56,2,15,1762253358,"~/Dockerfile"
-'9  2  15  ~/Dockerfile
-|4,57,2,15,1762253358,"~/Dockerfile"
+|4,51,2,15,1762254997,"~/Dockerfile"
+'4  2  15  ~/Dockerfile
+|4,52,2,15,1762254616,"~/Dockerfile"
+'5  2  15  ~/Dockerfile
+|4,53,2,15,1762254616,"~/Dockerfile"
+'6  13  42  ~/Cronjob.yml
+|4,54,13,42,1762254438,"~/Cronjob.yml"
+'7  1  0  ~/gold-market-price.py
+|4,55,1,0,1762254176,"~/gold-market-price.py"
+'8  1  0  ~/go
+|4,56,1,0,1762254077,"~/go"
+'9  13  42  ~/Cronjob.yml
+|4,57,13,42,1762253867,"~/Cronjob.yml"
 
 # Jumplist (newest first):
+-'  2  19  ~/credentials
+|4,39,2,19,1762255863,"~/credentials"
+-'  3  63  ~/credentials
+|4,39,3,63,1762255852,"~/credentials"
+-'  2  8  ~/config
+|4,39,2,8,1762255845,"~/config"
+-'  2  8  ~/config
+|4,39,2,8,1762255845,"~/config"
+-'  3  12  ~/config
+|4,39,3,12,1762255834,"~/config"
+-'  3  12  ~/config
+|4,39,3,12,1762255834,"~/config"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762255069,"~/Dockerfile"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762255069,"~/Dockerfile"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762255069,"~/Dockerfile"
 -'  2  15  ~/Dockerfile
 |4,39,2,15,1762255069,"~/Dockerfile"
 -'  2  15  ~/Dockerfile
 |4,39,2,15,1762254997,"~/Dockerfile"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762254997,"~/Dockerfile"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762254997,"~/Dockerfile"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762254997,"~/Dockerfile"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762254616,"~/Dockerfile"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762254616,"~/Dockerfile"
+-'  2  15  ~/Dockerfile
+|4,39,2,15,1762254616,"~/Dockerfile"
 -'  2  15  ~/Dockerfile
 |4,39,2,15,1762254616,"~/Dockerfile"
 -'  13  42  ~/Cronjob.yml
@@ -100,6 +130,54 @@
 |4,39,13,42,1762254438,"~/Cronjob.yml"
 -'  13  42  ~/Cronjob.yml
 |4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
+-'  13  42  ~/Cronjob.yml
+|4,39,13,42,1762254438,"~/Cronjob.yml"
 -'  1  0  ~/gold-market-price.py
 |4,39,1,0,1762254176,"~/gold-market-price.py"
 -'  1  0  ~/gold-market-price.py
@@ -132,154 +210,92 @@
 |4,39,1,0,1762254176,"~/gold-market-price.py"
 -'  1  0  ~/gold-market-price.py
 |4,39,1,0,1762254176,"~/gold-market-price.py"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  1  0  ~/go
-|4,39,1,0,1762254077,"~/go"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  13  42  ~/Cronjob.yml
-|4,39,13,42,1762253867,"~/Cronjob.yml"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
--'  2  15  ~/Dockerfile
-|4,39,2,15,1762253358,"~/Dockerfile"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
+-'  1  0  ~/gold-market-price.py
+|4,39,1,0,1762254176,"~/gold-market-price.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/credentials
+	*	1762255862	0
+	"	2	19
+	^	2	20
+	.	2	20
+	+	3	24
+	+	2	20
+
+> ~/config
+	*	1762255843	0
+	"	2	8
+	^	2	9
+	.	2	9
+	+	3	9
+	+	2	9
 
 > ~/Dockerfile
 	*	1762255068	0
@@ -336,20 +352,6 @@
 > ~/go
 	*	1762254076	0
 	"	1	0
-
-> ~/credentials
-	*	1762248179	0
-	"	3	63
-	^	3	64
-	.	3	63
-	+	3	63
-
-> ~/config
-	*	1762248137	0
-	"	3	12
-	^	3	13
-	.	3	12
-	+	3	12
 
 > ~/.aws/credentials
 	*	1762247821	0
