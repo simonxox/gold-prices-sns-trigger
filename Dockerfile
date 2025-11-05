@@ -9,7 +9,7 @@ RUN yum install unzip -y
 RUN curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 RUN unzip awscliv2.zip
 RUN ./aws/install
-ENV GOLD_API_ACCESS_TOKEN="goldapi-1km62smhj0wpn0-io"
+ENV GOLD_API_ACCESS_TOKEN="goldapi-xxxxxxxx-io"
 COPY config /root/.aws/
 COPY credentials /root/.aws/
 
