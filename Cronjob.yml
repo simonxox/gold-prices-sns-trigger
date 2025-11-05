@@ -14,7 +14,7 @@ spec:
               imagePullPolicy: Always
               env:
                 - name: GOLD_API_ACCESS_TOKEN
-                  value: "goldapi-1km62smhj0wpn0-io"
+                  value: "goldapi-xxxxxxxx-io"
                 - name: AWS_REGION
                   value: "ap-south-1"
           restartPolicy: OnFailure
